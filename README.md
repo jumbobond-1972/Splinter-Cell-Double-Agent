@@ -205,3 +205,6 @@ This repository serves as the official landing page for **Splinter Cell Double A
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Splinter Cell Double Agent today!**
+
+---
+**Last updated:** 2026-11-07 19:54:13 UTC
